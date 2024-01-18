@@ -90,7 +90,7 @@ const Features = () => {
           <Image
             src={Dash_One}
             alt="First image of the dashboard"
-            className="rounded-lg mx-auto max-w-3xl"
+            className="md:mx-auto md:max-w-3xl rounded-lg "
           />
         </div>
         <div className="p-2" hidden={!(activeTab === 1)}>
@@ -100,7 +100,7 @@ const Features = () => {
           <Image
             src={Dash_Two}
             alt="First image of the dashboard"
-            className="rounded-lg mx-auto max-w-3xl"
+            className="md:mx-auto md:max-w-3xl rounded-lg "
           />
         </div>
         <div className="p-2" hidden={!(activeTab === 2)}>
@@ -110,7 +110,7 @@ const Features = () => {
           <Image
             src={Dash_Three}
             alt="First image of the dashboard"
-            className="rounded-lg mx-auto max-w-3xl"
+            className="md:mx-auto md:max-w-3xl rounded-lg "
           />
         </div>
         <div className="p-2" hidden={!(activeTab === 3)}>
@@ -120,7 +120,7 @@ const Features = () => {
           <Image
             src={Dash_One}
             alt="First image of the dashboard"
-            className="rounded-lg mx-auto max-w-3xl"
+            className="md:mx-auto md:max-w-3xl rounded-lg "
           />
         </div>
       </div>
