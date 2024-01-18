@@ -35,7 +35,7 @@ const Features = () => {
         Everything you need to know about your bill details.
       </div>
       <div className="text-center pl-5 pr-5 text-lg max-w-3xl self-center">
-        Well everything you need if you aren’t that picky about minor details like tax compliance.
+        Well everything you need if you aren’t that picky about minor details like compliance.
       </div>
       <div className="backdrop-blur-lg bg-white/10 m-4 p-5 rounded-lg text-center mt-12">
         <button
@@ -47,7 +47,7 @@ const Features = () => {
           onClick={handleClick}
           id="payroll"
         >
-          Payroll
+          Power Balance
         </button>
         <button
           className={
@@ -58,7 +58,7 @@ const Features = () => {
           onClick={handleClick}
           id="claims"
         >
-          Claim Expense
+          Energy Generation
         </button>
         <button
           className={
@@ -69,7 +69,7 @@ const Features = () => {
           onClick={handleClick}
           id="vat"
         >
-          VAT Handling
+          Performance Monitoring
         </button>
         <button
           className={

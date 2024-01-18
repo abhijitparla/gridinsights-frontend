@@ -1,6 +1,7 @@
 import React from 'react'
 import ProfilePic from '@/assets/profile.jpeg'
 import Image from 'next/image'
+
 const TestimonialCard = () => {
   return (
     <div className='w-60 shadow-3xl bg-white m-5 rounded-lg'>

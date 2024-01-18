@@ -10,23 +10,23 @@ const FAQ = () => {
         <p>Absolutely, we are happy to take your money in all forms.</p>
       </div>
       <div className='m-5 p-5 shadow-lg'>
-        <h1 className='font-semibold mb-2 '>How do I apply for a job at TaxPal?</h1>
+        <h1 className='font-semibold mb-2 '>How do I apply for a job at GridInsights?</h1>
         <p>We only hire our customers, so subscribe for a minimum of 6 months and then let’s talk.</p>
       </div>
       <div className='m-5 p-5 shadow-lg'>
-        <h1 className='font-semibold mb-2 '>Does TaxPal handle VAT?</h1>
+        <h1 className='font-semibold mb-2 '>Does GridInsights handle VAT?</h1>
         <p>Well no, but if you move your company offshore you can probably ignore it.</p>
       </div>
       <div className='m-5 p-5 shadow-xl'>
         <h1 className='font-semibold mb-2 '>What was that testimonial about tax fraud all about?</h1>
-        <p>TaxPal is just a software application, ultimately your books are your responsibility.</p>
+        <p>GridInsights is just a software application, ultimately your books are your responsibility.</p>
       </div>
       <div className='m-5 p-5 shadow-lg'>
-        <h1 className='font-semibold mb-2 '>TaxPal sounds horrible but why do I still feel compelled to purchase?</h1>
+        <h1 className='font-semibold mb-2 '>GridInsights sounds horrible but why do I still feel compelled to purchase?</h1>
         <p>This is the power of excellent visual design. You just can’t resist it, no matter how poorly it actually functions.</p>
       </div>
       <div className='m-5 p-5 shadow-lg'>
-        <h1 className='font-semibold mb-2 '>I found other companies called TaxPal, are you sure you can use this name?</h1>
+        <h1 className='font-semibold mb-2 '>I found other companies called GridInsights, are you sure you can use this name?</h1>
         <p>Honestly not sure at all. We haven’t actually incorporated or anything, we just thought it sounded cool and made this website.</p>
       </div>
       <div className='m-5 p-5 shadow-lg'>
